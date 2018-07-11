@@ -1,0 +1,9 @@
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\bin\Debug\MathSkillsGame.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\bin\Debug\MathSkillsGame.exe
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\bin\Debug\MathSkillsGame.pdb
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\obj\Debug\MathSkillsGame.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\obj\Debug\MathSkillsGame.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\obj\Debug\MathSkillsGame.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\obj\Debug\MathSkillsGame.exe
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\obj\Debug\MathSkillsGame.pdb
+c:\users\eric\documents\visual studio 2015\Projects\MathSkillsGame\MathSkillsGame\obj\Debug\MathSkillsGame.MSGForm.resources
